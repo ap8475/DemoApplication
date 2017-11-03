@@ -1,0 +1,5 @@
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DemoApplication
+--content-root=C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication
+--file=

@@ -1,0 +1,10 @@
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\bin\Release\netcoreapp2.0\DemoApplication.deps.json
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\bin\Release\netcoreapp2.0\DemoApplication.runtimeconfig.json
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\bin\Release\netcoreapp2.0\DemoApplication.runtimeconfig.dev.json
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\bin\Release\netcoreapp2.0\DemoApplication.dll
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\bin\Release\netcoreapp2.0\DemoApplication.pdb
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\obj\Release\netcoreapp2.0\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\obj\Release\netcoreapp2.0\DemoApplication.AssemblyInfoInputs.cache
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\obj\Release\netcoreapp2.0\DemoApplication.AssemblyInfo.cs
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\obj\Release\netcoreapp2.0\DemoApplication.dll
+C:\Users\prasada2\bamboo-home\xml-data\builds\plan-1146883-JOB1\DemoApplication\DemoApplication\obj\Release\netcoreapp2.0\DemoApplication.pdb
